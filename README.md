@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @creat89 in Github and Adrián Cabrera in the real life.
 - 👀 I’m interested in Natural Language Processing (NLP), Information Retrieval (IR) and machine learning.
-- 💻 I’m currently working as a Data Scientist in Jus Mundi
+- 💻 I’m currently working as a Data Scientist in [Jus Mundi](https://jusmundi.com)
 - 🎓 You can check my [Google Scholar](https://scholar.google.fr/citations?user=ClsVOF0AAAAJ&hl) profile
 - 📫 And you can reach me on:
   - [LinkedIn](https://www.linkedin.com/in/luis-adri%C3%A1n-cabrera-diego-499700187/)
